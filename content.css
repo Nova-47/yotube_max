@@ -1,0 +1,10 @@
+/* Close button fade-in on appear */
+#yt-max-close-btn {
+  opacity: 0;
+  transition: opacity 0.2s ease, background 0.15s !important;
+}
+
+/* Stable state: smooth resize when browser window changes size */
+html.yt-max-windowed-fullscreen #movie_player {
+  transition: width 0.2s ease, height 0.2s ease;
+}
