@@ -27,7 +27,7 @@ Snap the browser window to one half of your screen, put YouTube Max on the right
 
 1. Download or clone this repository
    ```
-   git clone https://github.com/your-username/youtube-max.git
+   git clone https://github.com/nova-47/youtube-max.git
    ```
 
 2. Open Chrome and go to `chrome://extensions`
